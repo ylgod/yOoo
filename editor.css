@@ -1,0 +1,81 @@
+/* editor styles */
+*{
+	margin:0;
+	padding:0;
+}
+#htmlSource{
+	border-collapse:collapse;
+	font:13px/180% "lucida Grande",Verdana;
+	height:515px;
+	padding:5px;
+	white-space:pre-wrap;
+	width:702px;
+	word-wrap:break-word;
+}
+body{
+	font-family:Consolas,Microsoft YaHei,Helvetica,Georgia,Arial,sans-serif,'宋体';
+	color:#000;
+}
+p{
+	margin:10px 0;
+	line-height:24px;
+	font-size:14px;
+}
+h2{
+	border-bottom:1px solid #EDEDED;
+	font-size:16px;
+	margin:20px 0 15px;
+}
+h3{
+	border-bottom:1px solid #EDEDED;
+	font-size:14px;
+	margin:15px 0 10px;
+}
+table{
+	border: 1px solid #e7e7e7;
+	margin: 0 -1px 24px 0;
+	text-align: left;
+	width: 100%;
+}
+th, td{
+	border:1px solid #ccc;
+	padding:3px 10px;
+	text-align:left;
+	vertical-align:top;
+}
+tr.even td, tr.even td{
+	background:#f7f7f7;
+}
+th{
+	background:#edeff0;
+}
+blockquote{
+	padding:20px 30px;
+	border:1px solid #ccc;
+	border-radius:3px;
+	box-shadow:0px 0px 3px #FFF inset;
+	background:url("images/quote.png") no-repeat scroll left top #EDEDED;
+	margin:10px 5px;
+}
+blockquote p{
+	text-align:left !important;
+}
+code{
+	background:#555;
+	color:#ddd;
+	padding:5px 10px;
+	display: inline-block;
+	overflow-x: auto;
+	border-radius:5px;
+}
+pre{
+	font-size:12px;
+	width:auto;
+	line-height:16px;
+	overflow:auto;
+	font-family:"Courier New", clearSys;
+	background:none repeat scroll 0 0 transparent;
+	border:none;
+	padding:0 5px 16px;
+	margin:0 0 20px;
+}

@@ -1,0 +1,286 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-02 13:19+0800\n"
+"PO-Revision-Date: 2012-09-02 13:19+0800\n"
+"Last-Translator: 皇家元林 <i@hjyl.org>\n"
+"Language-Team: hjyl.org <i@hjyl.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../archive.php:17 ../index.php:9 ../search.php:17
+msgid "Featured"
+msgstr "置顶"
+
+#: ../archive.php:39 ../archive.php:40 ../comments.php:5 ../index.php:31
+#: ../index.php:32 ../page.php:25 ../page.php:26 ../search.php:39
+#: ../search.php:40 ../single.php:29 ../single.php:30
+msgid "Comments:"
+msgstr "评论："
+
+#: ../archive.php:39 ../archive.php:40 ../index.php:31 ../index.php:32
+#: ../page.php:25 ../page.php:26 ../search.php:39 ../search.php:40
+#: ../single.php:29 ../single.php:30
+msgid "Views:"
+msgstr "浏览："
+
+#: ../archive.php:43 ../index.php:35 ../page.php:29 ../search.php:43
+#: ../single.php:33
+msgid "Edit"
+msgstr "编辑"
+
+#: ../archive.php:72 ../index.php:64 ../page.php:41 ../search.php:72
+#: ../single.php:50
+msgid "Nothing Found"
+msgstr "什么都没有"
+
+#: ../archive.php:76 ../index.php:68 ../page.php:45 ../search.php:76
+#: ../single.php:54
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr "抱歉，这里没有你要找的，你可以试试搜搜。。"
+
+#: ../comments-ajax.php:26 ../comments-ajax.php:39 ../comments-ajax.php:42
+msgid "Invalid comment status."
+msgstr "评论状态错误."
+
+#: ../comments-ajax.php:36
+msgid "Sorry, comments are closed for this item."
+msgstr "对不起，此文评论关闭."
+
+#: ../comments-ajax.php:45
+msgid "Password Protected"
+msgstr "密码保护"
+
+#: ../comments-ajax.php:72
+msgid "Sorry, you must be logged in to post a comment."
+msgstr "对不起，你必须登录之后才能发布评论."
+
+#: ../comments-ajax.php:79
+msgid "Error: please fill the required fields (name, email)."
+msgstr "错误：请填写必填部分（名字，邮箱）."
+
+#: ../comments-ajax.php:81
+msgid "Error: please enter a valid email address."
+msgstr "错误：请填写正确的邮箱地址."
+
+#: ../comments-ajax.php:85
+msgid "Error: please type a comment."
+msgstr "错误：请填上一段评论."
+
+#: ../comments-ajax.php:99
+msgid ""
+"Duplicate comment detected; it looks as though you have already said that!"
+msgstr "检查有重复评论；你好像刚刚评论过了！"
+
+#: ../comments-ajax.php:108
+msgid "You are posting comments too quickly.  Slow down."
+msgstr "你评论太快了。淡定。"
+
+#: ../comments-ajax.php:151
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: ../comments-ajax.php:153
+msgid "Your comment is awaiting moderation."
+msgstr "你的评论正在等待审核。"
+
+#: ../comments-ajax.php:157
+msgid "(Edit)"
+msgstr "（编辑）"
+
+#: ../comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "此文密码保护。键入你的密码才能看所有的评论。"
+
+#: ../comments.php:9
+msgid "Previous"
+msgstr "上一篇"
+
+#: ../comments.php:9
+msgid "Next"
+msgstr "下一篇"
+
+#: ../comments.php:20
+#, php-format
+msgid "Welcome <strong>%s</strong>"
+msgstr "欢迎回来 <strong>%s</strong>"
+
+#: ../comments.php:23 ../comments.php:27
+msgid "(Toggle)"
+msgstr "(打开)"
+
+#: ../comments.php:28
+msgid "(Close)"
+msgstr "(关闭)"
+
+#: ../comments.php:47
+msgid "Name"
+msgstr "名字"
+
+#: ../comments.php:48
+msgid "Email"
+msgstr "邮箱"
+
+#: ../comments.php:49
+msgid "Website"
+msgstr "网站"
+
+#: ../comments.php:54
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "你必须 <a href=\"%s\">登录</a> 才能发布评论。"
+
+#: ../comments.php:55
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"<a href=\"%1$s\">%2$s</a>已登录。 <a href=\"%3$s\" title=\"登出账户\">退出？"
+"</a>"
+
+#: ../comments.php:60
+msgid "Leave a Reply"
+msgstr "回复"
+
+#: ../comments.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "回复 %s"
+
+#: ../comments.php:62
+msgid "Cancel reply"
+msgstr "取消回复"
+
+#: ../comments.php:63
+msgid "Post Comment"
+msgstr "发布评论"
+
+#: ../footer.php:11
+msgid "SiteMap"
+msgstr "网站地图"
+
+#: ../functions.php:33
+msgid "Primary Navigation"
+msgstr "主要导航"
+
+#: ../functions.php:78
+msgid "Sorry, you can't be verified."
+msgstr "抱歉，你不能被验证。"
+
+#: ../functions.php:149
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s 在 %2$s"
+
+#: ../functions.php:167 ../sidebar.php:4
+msgid "Home"
+msgstr "首页"
+
+#: ../functions.php:174 ../sidebar.php:22
+msgid "Single"
+msgstr "文章页"
+
+#: ../functions.php:181 ../sidebar.php:25
+msgid "Other"
+msgstr "其他页"
+
+#: ../functions.php:255
+#, php-format
+msgid "%s "
+msgstr ""
+
+#: ../header.php:18
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#: ../header.php:18
+msgid "search : "
+msgstr "搜索："
+
+#: ../header.php:18
+msgid "404 Error"
+msgstr "404错误"
+
+#: ../header.php:18
+msgid "post list : "
+msgstr "文章列表："
+
+#: ../page.php:14 ../single.php:15
+msgid "Pages:"
+msgstr "页面："
+
+#: ../searchform.php:2
+msgid "Search..."
+msgstr "搜索..."
+
+#: ../sidebar.php:6
+msgid "Archives"
+msgstr "归档"
+
+#: ../sidebar.php:13
+msgid "Meta"
+msgstr "管理"
+
+#: ../single.php:41
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> 上一篇"
+
+#: ../single.php:42
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "下一篇 <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../theme_inc.php:38 ../theme_inc.php:42
+msgid "yOoo Options"
+msgstr "yOoo主题设置"
+
+#: ../theme_inc.php:186
+msgid "Save Changes"
+msgstr "保存设置"
+
+#: ../update.php:13
+msgid "Theme Update"
+msgstr "主题升级"
+
+#: ../update.php:27
+msgid "yOoo Update"
+msgstr "yOoo主题升级"
+
+#: ../update.php:28
+msgid "yOoo Can be Updated!"
+msgstr "yOoo主题可以升级啦！"
+
+#: ../update.php:28
+msgid "This Version"
+msgstr "此版本"
+
+#: ../update.php:28
+msgid "Please Update to"
+msgstr "请升级到"
+
+#: ../update.php:31
+msgid "Download And Update"
+msgstr "下载并升级"
+
+#: ../update.php:32
+msgid "Notice:Please backup before update!"
+msgstr "提醒：请在升级前备份！"
+
+#: ../update.php:33
+msgid "Download yOoo"
+msgstr "下载yOoo主题"
+
+#: ../update.php:34
+msgid "Updates:"
+msgstr "升级："
